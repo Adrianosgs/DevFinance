@@ -1,44 +1,27 @@
+# DevFinance
 
-
-<div id="logo" align="center">
-
-
-![Logo Dev Finances](assets/logo.svg)
-#
-</div>
+![img_DevFinance-02](https://user-images.githubusercontent.com/69124206/138602118-dd8e7233-d892-42b8-8299-856dbc593afc.png)
 
 
 
-# 💻 Projeto
-O dev.finance$ é uma aplicação de controle financeiro em que se é capaz de cadastrar e excluir transações, além de visualizar o saldo das entradas e saídas realizadas.
-<br><br>
-</div>
-</div>
+O sistema foi desenvolvido de uma forma simples para que as pessoas possam administrar as suas finanças ao longo do mês alimentando a sua própria planilha de gastos.
 
-<div id="steps">
 
-# ✔ Etapas
-- [x] Base da aplicação
-- [x] Finalização do HTML + CSS
-<br><br>
-</div>
 
-<div id="tech">
+## Objetivo do projeto 
 
-# 👩‍💻 Tecnologias
+![img_devFinance-01](https://user-images.githubusercontent.com/69124206/138602143-c91c027c-c54d-4a25-b145-f7c64c28acc8.png)
 
-O dev.finance$ foi desenvolvido com as tecnologias:
-- HTML
-- CSS
-- Javascript
-<br><br>
-</div>
 
-<div id="">
 
-##
-</div>
+- Dar mais controle as pessoas de suas próprias finanças, mostrando a elas de uma forma clara como o seu dinheiro esta sendo aplicado e em qual item. podendo assim administrar os seus gastos e seus ganhos.
 
-<div id="licence">
 
-<div id="footer"></div>
+
+## 🚀 Tecnologias Utilizadas
+
+###  ✔ Front-end
+
+- HTML5
+- CSS3   
+- JavaScript   
